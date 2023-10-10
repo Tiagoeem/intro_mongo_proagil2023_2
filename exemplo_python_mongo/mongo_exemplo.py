@@ -24,7 +24,7 @@ print(lista_resultados)
 
 
 filter_ = {
-    "idade": {"$gt": 30}
+    "idade": 99
 }
 projection_ = {}
 resultado = pacientes_col.find_one(filter_, projection_)
