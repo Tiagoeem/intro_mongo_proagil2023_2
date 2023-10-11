@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # minhas chaves
-credentials_file.py
+*/credentials_file.py
 
 # C extensions
 *.so
